@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salendra Rakha</h1>
-<p align="center">I am a web developer. I am currently studying for a bachelor's degree in informatics. During college, in addition to working on web projects, I also learned about UI/UX.</p>
+<p align="center">I am a frontend web developer. I am currently pursuing a bachelor's degree in informatics. During college, I worked on web projects and I am also studying UI/UX.</p>
 <hr>
 <p align="center">
-<a href="https://www.instagram.com/rakha_wijaya1" target="_blank" style="background-color:white;"><img height="40" src="https://www.pngrepo.com/png/111199/180/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/salendrawijaya/" target="_blank" style="background-color:white;"><img height="40"  src="https://www.pngrepo.com/png/157006/180/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/salendra.r.wijaya" target="_blank" style="background-color:white;"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rakha_wijaya1" target="_blank" style="background-color:white;"><img height="35" src="https://www.pngrepo.com/png/111199/180/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/salendrawijaya/" target="_blank" style="background-color:white;"><img height="35"  src="https://www.pngrepo.com/png/157006/180/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/salendra.r.wijaya" target="_blank" style="background-color:white;"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" /></a>&nbsp;&nbsp;
 </p>
 
 👨🏽‍💻 I'm currently studying and looking for projects;
@@ -24,8 +24,9 @@
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img height="100" style="color:white;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img height="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />  
 </div>
+<br>
 
-(https://github-readme-stats.vercel.app/api?username=raka-wijaya&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raka-wijaya&show_icons=true&theme=dark)
 <!---
 raka-wijaya/raka-wijaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
