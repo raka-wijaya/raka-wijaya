@@ -18,7 +18,7 @@
 📫 How to contact me: salendraraka7@gmail.com
 
 <h3>Languages and Tools:</h3>
-<div style="flex" align="center">
+<div display="flex" align="center">
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> &nbsp; 
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />  &nbsp; 
 <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  &nbsp; 
