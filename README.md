@@ -17,23 +17,6 @@
 <br>
 📫 How to contact me: salendraraka7@gmail.com
 
-<h3>Languages and Tools:</h3>
-<div display="flex" align="center">
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /> &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp;
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  &nbsp; 
-<img height="100" src="https://www.svgrepo.com/download/475654/github-color.svg">  &nbsp; 
-<img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />  &nbsp; 
-</div>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raka-wijaya&show_icons=true&bg_color=222831&title_color=76ABAE&icon_color=76ABAE&text_color=EEEEEE)
 
 ⭐️ From [raka-wijaya](https://github.com/raka-wijaya)
 <!---
