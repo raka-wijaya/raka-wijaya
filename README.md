@@ -19,6 +19,8 @@
 
 
 ⭐️ From [raka-wijaya](https://github.com/raka-wijaya)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=raka-wijaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 raka-wijaya/raka-wijaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
