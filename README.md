@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salendra Rakha</h1>
+<h1 align="center">Hi 👋, I'm Salendra Rakha Wijaya</h1>
 <p align="center">I am a frontend web developer. I am currently pursuing a bachelor's degree in informatics. During college, I worked on web projects and I am also studying UI/UX.</p>
 <hr>
 
